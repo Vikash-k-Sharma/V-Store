@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "rohit@123",
+      "id": "476lhdh5D-o"
+    },
+    {
+      "name": "vikash",
+      "email": "vikash123@gmail.com",
+      "password": "vikash@123",
+      "id": "ypcg6ApVEkw"
+    },
+    {
+      "name": "prince",
+      "email": "prince@gmail.com",
+      "password": "prince@123",
+      "id": "4u5f0Kb-1jc"
+    },
+    {
+      "name": "bikash",
+      "email": "bikash@gmail.com",
+      "password": "bikash@123",
+      "id": "04ckEnkrBVo"
+    },
+    {
+      "name": "king Kumar",
+      "email": "king@gmail.com",
+      "password": "king@123",
+      "id": "hRVPVtOAjS8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
