@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+A modern and responsive e-commerce web application built using Vue.js with the Composition API (script setup) and styled using Tailwind CSS. This project showcases a clean UI/UX for browsing products, adding items to cart, and exploring product details in a smooth and interactive way.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+The application is structured with reusable components and follows best practices for scalability and maintainability. It is deployed using GitHub Pages for easy access and demonstration.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+🚀 Features
+⚡ Built with Vue 3 (Composition API - <script setup>)
+🎨 Styled using Tailwind CSS for modern UI
+🛒 Product listing with pricing & discount display
+❤️ Wishlist / favorite UI interactions
+🧩 Component-based architecture
+📱 Fully responsive design
+🌐 Deployed on GitHub Pages
+🛠️ Tech Stack
+Frontend: Vue.js 3
+Styling: Tailwind CSS
+Build Tool: Vite
+Deployment: GitHub Pages
+
+
+📌 Live Demo
+👉 https://vikash-k-sharma.github.io/V-Store/
